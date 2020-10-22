@@ -1,0 +1,14 @@
+Some of the commands I used here:
+
+    git init
+    git status
+    git add . (if we want to add everything)
+    git add filename (if we want to add some particular file)
+    git commit -m "description"
+    git commit -a -m "description" (commit only staged ones)
+    git push origin master (pushes the commited code to master branch)
+    git log
+    git log -1 (latest one commit)
+    git log --oneline
+    git log --stat
+    git log --patch
