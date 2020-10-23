@@ -12,3 +12,14 @@ Some of the commands I used here:
     git log --oneline
     git log --stat
     git log --patch
+    git rm filename (to delete a file)
+    git rm --cached filename (deleted but untracked file)
+
+    
+
+Git visualization
+
+    git commit (master branch)
+    git checkout -b new_branch (head point to new branch from master branch)
+    git commit (new branch)
+    git checkout master (head points to master)
